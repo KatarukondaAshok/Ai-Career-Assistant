@@ -1,0 +1,5 @@
+streamlit
+python-dotenv
+mcp
+groq
+pymupdf
