@@ -1,6 +1,13 @@
 #  AI Career Assistant  
 ### LLM + MCP Powered Mentor Chatbot for B.Tech Graduates  
 
+
+##  Live Application
+
+You can access the deployed application here:
+
+ https://huggingface.co/spaces/katarukondaashok143/chatbot_using_mcp
+ 
 ---
 
 ##  Overview
