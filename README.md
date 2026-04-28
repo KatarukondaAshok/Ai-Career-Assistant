@@ -6,7 +6,7 @@
 
 You can access the deployed application here:
 
- https://huggingface.co/spaces/katarukondaashok143/chatbot_using_mcp
+https://huggingface.co/spaces/katarukondaashok143/chatbot_using_mcp
  
 ---
 
